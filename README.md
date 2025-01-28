@@ -4,7 +4,3 @@ A replica of the Zomato landing page, showcasing various restaurants and food op
 
 Link: https://ashutosh9110.github.io/zomato_landing_page/
 
-Link:
-https://ashutosh9110.github.io/zomato_landing_page/
-
-
